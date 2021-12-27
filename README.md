@@ -1,1 +1,1 @@
-loadstring("https://pastebin.com/KEjj6PbX"))()
+https://pastebin.com/raw/KEjj6PbX
